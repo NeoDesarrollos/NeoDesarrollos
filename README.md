@@ -47,6 +47,6 @@ Si necesita un desarrollador web y sistemas a medida con experiencia en PHP y My
 
 ## Podes contactarme en:
 
-[![Email](https://img.shields.io/badge/desarrollo@neodesarrollos.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:desarrollo@neodesarrollos.com)
+[![Email](https://img.shields.io/badge/desarrollo@neodesarrollos.com-EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:desarrollo@neodesarrollos.com)
 [![Sitio web](https://img.shields.io/badge/https://neodesarrollos.com-sitio_web-blue?style=for-the-badge&logo=earth&logoColor=white&labelColor=101010)](https://neodesarrollos.com)
 
