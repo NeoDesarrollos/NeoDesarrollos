@@ -21,8 +21,6 @@ Si necesita un desarrollador web y sistemas a medida con experiencia en PHP y My
 
 
 ## Tecnologías:
-![Static Badge](https://img.shields.io/badge/:PHP)
-
 [![PHP](https://img.shields.io/badge/PHP-yellow?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
