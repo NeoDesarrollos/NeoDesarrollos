@@ -1,5 +1,9 @@
 # Hola, mi nombre es Jorge Piovano 👋
 
+
+![HOme NeoDesarrollos](https://github.com/NeoDesarrollos/NeoDesarrollos/blob/222e085c218d6d1c2b078c4454274748953bef03/img/home.png)
+
+
 ### Freelance full-stack
 
 Soy un desarrollador web y sistemas a medida con experiencia en PHP y MySQL. Me apasiona crear soluciones innovadoras y efectivas para las necesidades de mis clientes. Además de mi experiencia técnica, también soy emprendedor y tengo habilidades en diseño utilizando Solidworks.
