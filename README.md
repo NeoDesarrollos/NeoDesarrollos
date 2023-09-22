@@ -1,8 +1,6 @@
 # Hola, mi nombre es Jorge Piovano 👋
+
 ### Freelance full-stack
-
-
-
 
 Soy un desarrollador web y sistemas a medida con experiencia en PHP y MySQL. Me apasiona crear soluciones innovadoras y efectivas para las necesidades de mis clientes. Además de mi experiencia técnica, también soy emprendedor y tengo habilidades en diseño utilizando Solidworks.
 
@@ -14,26 +12,39 @@ Soy una persona trabajadora y enfocada, siempre buscando aprender nuevas habilid
 
 Si necesita un desarrollador web y sistemas a medida con experiencia en PHP y MySQL, o un experto en diseño 3D utilizando Solidworks, no dude en ponerse en contacto conmigo. ¡Estoy emocionado por trabajar en su próximo proyecto!
 
-
-
-
-
-
-
 ## Tecnologías:
+
 [![PHP](https://img.shields.io/badge/PHP-yellow?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://www.php.net/)
+
 [![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [![jQuery](https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)](https://jquery.com/)
 
 [![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](https://getbootstrap.com/)
+
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-green?style=for-the-badge&logo=solidworks&logoColor=white&labelColor=101010)](https://www.solidworks.com/es)
 
+[![CamWorks](https://img.shields.io/badge/CamWorks-blue?style=for-the-badge&logo=camworks&logoColor=white&labelColor=101010)](https://camworks.com/)
 
+[![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=101010)](https://www.adobe.com/es/products/photoshop/)
+
+[![CorelDRAW](https://img.shields.io/badge/CorelDRAW-ff2f4b?style=for-the-badge&logo=coreldraw&logoColor=white&labelColor=101010)](https://www.coreldraw.com/)
+
+[![Office](https://img.shields.io/badge/Microsoft%20Office-d83b01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=101010)](https://enlace-a-tu-repositorio)
+
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-a22846?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=101010)](https://www.raspberrypi.com/)
+
+[![Arduino](https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
 
 ## Encuéntrame en:
 
@@ -45,10 +56,7 @@ Si necesita un desarrollador web y sistemas a medida con experiencia en PHP y My
 
 [![GitHub](https://img.shields.io/badge/GitHub-neodesarrollos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/neodesarrollos)
 
-
-
 ## Podes contactarme en:
 
 [![Email](https://img.shields.io/badge/desarrollo@neodesarrollos.com-EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:desarrollo@neodesarrollos.com)
 [![Sitio web](https://img.shields.io/badge/https://neodesarrollos.com-sitio_web-blue?style=for-the-badge&logo=earth&logoColor=white&labelColor=101010)](https://neodesarrollos.com)
-
